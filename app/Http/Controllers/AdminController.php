@@ -12,7 +12,7 @@ class AdminController extends Controller
      * The authentication guard that should be used.
      *
      * @var string
-     *///
+     *///5.1www
     public $guard = 'admin.web';
 
     /**
